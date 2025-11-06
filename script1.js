@@ -17,7 +17,7 @@ image: ""
 3: {
 text: "Find the value of 2a + 3b − 4 when a = 3, b = 2",
 options: ["10", "11", "12", "8"],
-correct: "2",
+correct: "4",
 image: ""
 },
 4: {
@@ -34,7 +34,7 @@ image: ""
 },
 6: {
 text: "If x = 4, what is the value of 3x² − 2x + 1?",
-options: ["37", "40", "33", "25"],
+options: ["41", "40", "33", "25"],
 correct: "1",
 image: ""
 },
@@ -58,7 +58,7 @@ image: ""
 },
 10: {
 text: "If a = 2, b = 3, c = 4, find 2a + 3b + 4c.",
-options: ["24", "22", "20", "18"],
+options: ["29", "22", "20", "18"],
 correct: "1",
 image: ""
 },
@@ -95,13 +95,13 @@ image: ""
 16: {
 text: "If y = 2, find the value of 3y² + 2y + 1",
 options: ["15", "13", "17", "19"],
-correct: "1",
+correct: "3",
 image: ""
 },
 17: {
 text: "A number multiplied by 6 gives 42. What is the number?",
 options: ["8", "9", "7", "6"],
-correct: "2",
+correct: "3",
 image: ""
 },
 18: {
@@ -143,7 +143,7 @@ image: ""
 24: {
 text: "If x = 3, find the value of (2x + 1)(x − 2).",
 options: ["5", "6", "7", "8"],
-correct: "1",
+correct: "3",
 image: ""
 },
 25: {
@@ -155,7 +155,7 @@ image: ""
 26: {
 text: "If 3x + 5 = 2x + 12, what is x?",
 options: ["4", "5", "7", "6"],
-correct: "1",
+correct: "3",
 image: ""
 },
 27: {
@@ -167,7 +167,7 @@ image: ""
 28: {
 text: "If a = 3 and b = 4, find the value of (a + b)² − (a² + b²).",
 options: ["12", "24", "20", "25"],
-correct: "1",
+correct: "2",
 image: ""
 },
 29: {
@@ -179,7 +179,7 @@ image: ""
 30: {
 text: "If x = 2, evaluate (3x² − 4x + 2).",
 options: ["6", "8", "10", "12"],
-correct: "2",
+correct: "1",
 image: ""
 },
 31: {
@@ -197,7 +197,7 @@ image: ""
 33: {
 text: "If 7x − 9 = 19, what is x?",
 options: ["3", "4", "5", "6"],
-correct: "3",
+correct: "2",
 image: ""
 },
 34: {
@@ -215,12 +215,12 @@ image: ""
 36: {
 text: "Simplify: (3x − 4) − (2x − 7)",
 options: ["x − 11", "x + 3", "x + 11", "x − 3"],
-correct: "3",
+correct: "2",
 image: ""
 },
 37: {
 text: "If x = 2 and y = 3, find the value of x²y + 3xy².",
-options: ["30", "36", "42", "40"],
+options: ["30", "66", "42", "40"],
 correct: "2",
 image: ""
 },
@@ -239,7 +239,7 @@ image: ""
 40: {
 text: "If 4x − 5 = 15, find x.",
 options: ["4", "5", "6", "7"],
-correct: "3",
+correct: "2",
 image: ""
 }
 
